@@ -78,6 +78,8 @@ Here are the best alternatives, ranked by how well they handle Angular and TypeS
 * **Cost:** Free (part of Firebase/Google Cloud tiers).
 * **Setup:** Go to **[idx.dev](https://idx.dev)** or **[studio.firebase.google.com](https://studio.firebase.google.com)**.
 
+https://studio.firebase.google.com/learn741-13613037
+
 ### 2. GitHub Codespaces
 
 **The Industry Standard:** If your code is on GitHub, you already have access to this. It literally opens a full version of **VS Code** in your browser tab.
